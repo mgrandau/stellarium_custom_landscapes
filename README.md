@@ -27,3 +27,8 @@ We use 2048x1024 image of a 360 degree panaramas for the landscape.
 * [Stellarium Landscapes](https://stellarium.org/landscapes.html)
 * [Stellarium Landscape Source](https://github.com/Stellarium/stellarium/tree/master/landscapes)
 
+
+## 💬 Community
+
+💬 [Join the Discord community](https://discord.gg/2KqjHvh5)
+
